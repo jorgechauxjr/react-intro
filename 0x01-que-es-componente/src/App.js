@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-
       <TodoItem />
       <TodoItem />
       <TodoItem />
@@ -20,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprendamos React
+          Learn React
         </a>
       </header>
     </div>
